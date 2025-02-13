@@ -21,7 +21,7 @@
   <img src=https://i.gifer.com/3Pqq.gif width="400px">
 </p>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KauanMess&show_icons=true&theme=dracula) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMess&layout=compact&theme=dracula" width="500px">
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KauanMess&show_icons=true&theme=dracula) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMess&layout=compact&theme=dracula" width="420px">
 
 
 
